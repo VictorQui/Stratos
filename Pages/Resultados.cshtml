@@ -1,0 +1,662 @@
+﻿@page
+@model ProyectoWebIDP.Pages.ResultadosModel
+@{
+    ViewData["Title"] = "Resultados DISC";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados DISC - Evaluación de Liderazgo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #e0f2fe 0%, #ecfdf5 50%, #d1fae5 100%);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .card {
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            border: none;
+            overflow: hidden;
+        }
+        
+        .card-header {
+            background: linear-gradient(90deg, #60a5fa 0%, #818cf8 100%);
+            color: white;
+            padding: 20px;
+            border-bottom: none;
+        }
+        
+        .card-header h2 {
+            margin: 0;
+            font-size: 24px;
+        }
+        
+        .card-body {
+            padding: 30px;
+        }
+        
+        .info-section {
+            background: #f8fafc;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .patron-section {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 15px;
+            margin: 20px 0;
+        }
+        
+        .patron-section h3 {
+            color: white;
+            margin-bottom: 15px;
+            font-size: 28px;
+        }
+        
+        .patron-section h4 {
+            color: #ffd700;
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+        
+        .patron-section p {
+            color: #f0f0f0;
+            line-height: 1.6;
+        }
+        
+        .badge-patron {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 8px 16px;
+            border-radius: 25px;
+            font-size: 14px;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+        
+        .chart-container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        
+        .btn-volver {
+            background: linear-gradient(90deg, #60a5fa 0%, #818cf8 100%);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 25px;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-block;
+            transition: transform 0.2s;
+        }
+        
+        .btn-volver:hover {
+            transform: translateY(-2px);
+            color: white;
+        }
+        
+        .puntaje-badge {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 5px;
+            background: #e9ecef;
+            color: #495057;
+        }
+        
+        .leyenda {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .leyenda-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 12px;
+        }
+        
+        .leyenda-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+        }
+        
+        .codigo-segmento {
+            font-size: 28px;
+            font-weight: bold;
+            color: #8b5cf6;
+            background: #f0f0f0;
+            padding: 8px 20px;
+            border-radius: 10px;
+            display: inline-block;
+            letter-spacing: 2px;
+        }
+        
+        .badge-primary {
+            background: #8b5cf6;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 16px;
+        }
+        
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .info-card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .info-card h5 {
+            color: #ffd700;
+            margin-bottom: 10px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        
+        .info-card p {
+            margin: 0;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        
+        .definicion-card {
+            transition: transform 0.2s;
+        }
+        
+        .definicion-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .texto-formateado {
+            line-height: 1.6;
+        }
+        
+        .texto-formateado p {
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-header">
+                <h2 class="text-center">Resultados de Evaluación DISC</h2>
+            </div>
+            <div class="card-body">
+                @if (Model.UsuarioInfo != null)
+                {
+                    <div class="info-section">
+                        <h4 class="mb-3">Información del Evaluado</h4>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p><strong>Nombre:</strong> @Model.UsuarioInfo.NombreCompleto</p>
+                                <p><strong>Correo:</strong> @Model.UsuarioInfo.Correo</p>
+                            </div>
+                            <div class="col-md-6">
+                                <p><strong>Carrera:</strong> @Model.UsuarioInfo.Carrera</p>
+                                <p><strong>Semestre:</strong> @Model.UsuarioInfo.Semestre</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+                @if (Model.Resultado != null)
+                {
+                    <div class="chart-container">
+                        <h4 class="text-center mb-4">📈 Perfil de Estilo de Liderazgo</h4>
+                        
+                        <!-- Resumen de puntajes -->
+                        <div class="row text-center mb-4">
+                            <div class="col-md-3">
+                                <div class="puntaje-badge">
+                                    D (Z): @Model.Resultado.ZDif
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="puntaje-badge">
+                                    I (Cuadrado): @Model.Resultado.CuadradoDif
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="puntaje-badge">
+                                    S (Triángulo): @Model.Resultado.TrianguloDif
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="puntaje-badge">
+                                    C (Estrella): @Model.Resultado.EstrellaDif
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div style="width: 100%; max-width: 800px; margin: 0 auto; position: relative; height: 500px;">
+                            <canvas id="discChart" style="width: 100%; height: 100%;"></canvas>
+                        </div>
+                        
+                        <!-- Leyenda de segmentos -->
+                        <div class="leyenda">
+                            <div class="leyenda-item">
+                                <div class="leyenda-color" style="background: #dc3545;"></div>
+                                <span>Segmento 7</span>
+                            </div>
+                            <div class="leyenda-item">
+                                <div class="leyenda-color" style="background: #fd7e14;"></div>
+                                <span>Segmento 6</span>
+                            </div>
+                            <div class="leyenda-item">
+                                <div class="leyenda-color" style="background: #ffc107;"></div>
+                                <span>Segmento 5</span>
+                            </div>
+                            <div class="leyenda-item">
+                                <div class="leyenda-color" style="background: #20c997;"></div>
+                                <span>Segmento 4</span>
+                            </div>
+                            <div class="leyenda-item">
+                                <div class="leyenda-color" style="background: #6f42c1;"></div>
+                                <span>Segmento 3</span>
+                            </div>
+                            <div class="leyenda-item">
+                                <div class="leyenda-color" style="background: #0d6efd;"></div>
+                                <span>Segmento 2</span>
+                            </div>
+                            <div class="leyenda-item">
+                                <div class="leyenda-color" style="background: #28a745;"></div>
+                                <span>Segmento 1</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Información del Patrón -->
+                    @if (Model.InfoPatron != null)
+                    {
+                        <div class="patron-section">
+                            <div class="text-center">
+                                <div class="badge-patron">🎖️ Perfil Identificado</div>
+                                <h3>@Model.InfoPatron.NombrePatron</h3>
+                                <p class="mt-2">Código: <strong id="codigo-dinamico">Calculando...</strong> | Letra Principal: <strong>@Model.Resultado.LetraPrincipal</strong></p>
+                            </div>
+                            
+                            <div class="info-grid">
+                                <div class="info-card">
+                                    <h5>📖 Descripción General</h5>
+                                    <p>@Model.InfoPatron.Descripcion</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>😎 Emociones</h5>
+                                    <p>@Model.InfoPatron.Emociones</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>🥊 Meta Principal</h5>
+                                    <p>@Model.InfoPatron.Meta</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>🧐 Juzga a Otros Por</h5>
+                                    <p>@Model.InfoPatron.JuzgaOtros</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>💪 Influye Mediante</h5>
+                                    <p>@Model.InfoPatron.InfluyeMediante</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>💎 Valor para la Organización</h5>
+                                    <p>@Model.InfoPatron.ValorOrga</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>😱 Abusa de</h5>
+                                    <p>@Model.InfoPatron.Abusa</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>💣 Bajo Presión</h5>
+                                    <p>@Model.InfoPatron.BajoPresion</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>😨 Temores</h5>
+                                    <p>@Model.InfoPatron.Teme</p>
+                                </div>
+                                
+                                <div class="info-card">
+                                    <h5>🎗️ Más Eficaz Cuando</h5>
+                                    <p>@Model.InfoPatron.MasEficaz</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    
+                    <!-- Definición de la Letra Principal -->
+                    @if (Model.DefinicionLetraPrincipal != null)
+                    {
+                        <div class="info-section mt-4" style="background: linear-gradient(135deg, #e0f2fe 0%, #f1f5f9 100%);">
+                            <h4 class="mb-3">⭐ Estilo de Liderazgo Principal: 
+                                @if (Model.LetraPrincipalDeterminada == "D") { <span>Dominancia (D)</span> }
+                                else if (Model.LetraPrincipalDeterminada == "I") { <span>Influencia (I)</span> }
+                                else if (Model.LetraPrincipalDeterminada == "S") { <span>Estabilidad (S)</span> }
+                                else if (Model.LetraPrincipalDeterminada == "C") { <span>Cumplimiento (C)</span> }
+                            </h4>
+                            
+                            <div class="row">
+                                <div class="col-md-12 mb-3">
+                                    <div class="alert alert-info">
+                                        <strong>Determinado por el puntaje más alto:</strong> 
+                                        Letra <strong>@Model.LetraPrincipalDeterminada</strong> (Puntaje: <strong>@Model.PuntajeMayor</strong>)
+                                        @if (Model.Resultado != null)
+                                        {
+                                            <br>
+                                            <small class="text-muted">
+                                                Puntajes completos: 
+                                                D: @Model.Resultado.ZDif | 
+                                                I: @Model.Resultado.CuadradoDif | 
+                                                S: @Model.Resultado.TrianguloDif | 
+                                                C: @Model.Resultado.EstrellaDif
+                                            </small>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Una sola fila con 4 columnas -->
+                            <div class="row mt-2">
+                                <div class="col-md-3">
+                                    <div class="card h-100" style="background: #e8f4f8; border: none;">
+                                        <div class="card-body">
+                                            <h5 class="card-title text-primary">📈 Tendencias</h5>
+                                            <div class="texto-formateado">
+                                                @Html.Raw(Model.DefinicionLetraPrincipal.Tendencias)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="card h-100" style="background: #e3f2fd; border: none;">
+                                        <div class="card-body">
+                                            <h5 class="card-title text-primary">🏢 Ambiente Deseado</h5>
+                                            <div class="texto-formateado">
+                                                @Html.Raw(Model.DefinicionLetraPrincipal.AmbienteDeseado)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="card h-100" style="background: #fff3e0; border: none;">
+                                        <div class="card-body">
+                                            <h5 class="card-title text-warning">🤝 Necesita de Otros</h5>
+                                            <div class="texto-formateado">
+                                                @Html.Raw(Model.DefinicionLetraPrincipal.NecesitaOtros)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="card h-100" style="background: #f3e5f5; border: none;">
+                                        <div class="card-body">
+                                            <h5 class="card-title text-purple">💡 Necesita</h5>
+                                            <div class="texto-formateado">
+                                                @Html.Raw(Model.DefinicionLetraPrincipal.Necesita)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="info-section mt-4" style="background: linear-gradient(135deg, #e0f2fe 0%, #f1f5f9 100%);">
+                            <h4 class="mb-3">⭐ Estilo de Liderazgo Principal</h4>
+                            
+                            <div class="row">
+                                <div class="col-md-12 mb-3">
+                                    <div class="alert alert-warning">
+                                        <strong>📊 Determinado por el puntaje más alto:</strong> 
+                                        Letra <strong>@Model.LetraPrincipalDeterminada</strong> (Puntaje: <strong>@Model.PuntajeMayor</strong>)
+                                        @if (Model.Resultado != null)
+                                        {
+                                            <br>
+                                            <small class="text-muted">
+                                                Puntajes completos: 
+                                                D: @Model.Resultado.ZDif | 
+                                                I: @Model.Resultado.CuadradoDif | 
+                                                S: @Model.Resultado.TrianguloDif | 
+                                                C: @Model.Resultado.EstrellaDif
+                                            </small>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="alert alert-info">
+                                <strong>ℹ️ Información de la Letra @Model.LetraPrincipalDeterminada:</strong><br>
+                                @if (Model.LetraPrincipalDeterminada == "D")
+                                {
+                                    <p><strong>Dominancia</strong> - Orientado a resultados, directo, firme. Busca poder y autoridad.</p>
+                                    <p><strong>Tendencias:</strong> Obtener resultados inmediatos, provocar la acción, aceptar retos.</p>
+                                    <p><strong>Ambiente deseado:</strong> Poder y autoridad, prestigio y retos, oportunidad para logros.</p>
+                                }
+                                else if (Model.LetraPrincipalDeterminada == "I")
+                                {
+                                    <p><strong>Influencia</strong> - Optimista, entusiasta, persuasivo. Busca reconocimiento y popularidad.</p>
+                                    <p><strong>Tendencias:</strong> Ponerse en contacto con la gente, causar una impresión favorable.</p>
+                                    <p><strong>Ambiente deseado:</strong> Popularidad, reconocimiento, reconocimiento público de su capacidad.</p>
+                                }
+                                else if (Model.LetraPrincipalDeterminada == "S")
+                                {
+                                    <p><strong>Estabilidad</strong> - Paciente, leal, cooperativo. Busca estabilidad y rutinas predecibles.</p>
+                                    <p><strong>Tendencias:</strong> Desempeño uniforme y predecible, demostrar paciencia.</p>
+                                    <p><strong>Ambiente deseado:</strong> Conservar el orden establecido, rutinas predecibles, reconocimiento.</p>
+                                }
+                                else if (Model.LetraPrincipalDeterminada == "C")
+                                {
+                                    <p><strong>Cumplimiento</strong> - Analítico, preciso, sistemático. Busca calidad y expectativas claras.</p>
+                                    <p><strong>Tendencias:</strong> Atención esmerada a normas clave e instrucciones, concentrarse en detalles.</p>
+                                    <p><strong>Ambiente deseado:</strong> Expectativas de desempeño claramente definidas, valoración de calidad.</p>
+                                }
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="alert alert-warning text-center">
+                        <h4>⚠️ No se encontraron resultados</h4>
+                        <p>Por favor, completa la evaluación para ver tus resultados.</p>
+                    </div>
+                }
+
+                <div class="text-center mt-4">
+                    <a href="/" class="btn-volver">🏠 Volver al Inicio</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            
+            // 1. Obtener los puntajes reales
+            const puntajesNaturales = {
+                D: @(Model.Resultado?.ZDif ?? 0),
+                I: @(Model.Resultado?.CuadradoDif ?? 0),
+                S: @(Model.Resultado?.TrianguloDif ?? 0),
+                C: @(Model.Resultado?.EstrellaDif ?? 0)
+            };
+
+            console.log('Puntajes recibidos:', puntajesNaturales);
+
+            // 2. Función matemática de rangos
+            function obtenerSegmento(score, factor) {
+                const rangos = {
+                    D: [[-28, -8], [-7, -4], [-3, -1], [0, 1], [2, 4], [5, 8], [9, 28]],
+                    I: [[-28, -8], [-7, -4], [-3, -2], [-1, 0], [1, 3], [4, 6], [7, 28]],
+                    S: [[-28, -11], [-10, -7], [-6, -4], [-3, -1], [0, 3], [4, 7], [8, 28]],
+                    C: [[-28, -6], [-5, -3], [-2, -1], [0, 2], [3, 4], [5, 8], [9, 28]]
+                };
+                const rangosFactor = rangos[factor];
+                for (let i = 0; i < rangosFactor.length; i++) {
+                    if (score >= rangosFactor[i][0] && score <= rangosFactor[i][1]) {
+                        return i + 1;
+                    }
+                }
+                return 4; // Valor por defecto
+            }
+
+            // 3. OBLIGAMOS a que los segmentos se calculen con la función
+            const segmentos = {
+                D: obtenerSegmento(puntajesNaturales.D, 'D'),
+                I: obtenerSegmento(puntajesNaturales.I, 'I'),
+                S: obtenerSegmento(puntajesNaturales.S, 'S'),
+                C: obtenerSegmento(puntajesNaturales.C, 'C')
+            };
+
+            console.log('Segmentos calculados matemáticamente:', segmentos);
+
+            // 4. Mapeo a posiciones en la gráfica
+            function segmentoAPosicionVisual(segmento) {
+                const posiciones = { 1: 95, 2: 82, 3: 69, 4: 50, 5: 31, 6: 18, 7: 5 };
+                return posiciones[segmento];
+            }
+
+            const visualData = [
+                segmentoAPosicionVisual(segmentos.D),
+                segmentoAPosicionVisual(segmentos.I),
+                segmentoAPosicionVisual(segmentos.S),
+                segmentoAPosicionVisual(segmentos.C)
+            ];
+
+            // 5. Crear el gráfico
+            const ctx = document.getElementById('discChart').getContext('2d');
+            
+            if (window.discChartInstance) {
+                window.discChartInstance.destroy();
+            }
+            
+            window.discChartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['D (Z)', 'I (Cuadrado)', 'S (Triángulo)', 'C (Estrella)'],
+                    datasets: [{
+                        data: visualData,
+                        borderColor: '#60a5fa',
+                        backgroundColor: 'rgba(96, 165, 250, 0.1)',
+                        borderWidth: 3,
+                        pointRadius: 10,
+                        pointHoverRadius: 14,
+                        pointBackgroundColor: (context) => {
+                            const segmentosArray = [segmentos.D, segmentos.I, segmentos.S, segmentos.C];
+                            const segmento = segmentosArray[context.dataIndex];
+                            if (segmento === 7) return '#dc3545';
+                            if (segmento === 6) return '#fd7e14';
+                            if (segmento === 5) return '#ffc107';
+                            if (segmento === 4) return '#20c997';
+                            if (segmento === 3) return '#6f42c1';
+                            if (segmento === 2) return '#0d6efd';
+                            return '#28a745';
+                        },
+                        pointBorderColor: '#ffffff',
+                        pointBorderWidth: 2,
+                        fill: true,
+                        tension: 0.3
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    scales: {
+                        y: { 
+                            min: 0, 
+                            max: 100, 
+                            reverse: true, // Mantiene el formato visual (1 abajo, 7 arriba)
+                            title: {
+                                display: true,
+                                text: 'Segmento',
+                                font: { size: 12, weight: 'bold' }
+                            },
+                            grid: {
+                                color: '#e2e8f0',
+                                drawBorder: true
+                            },
+                            ticks: {
+                                stepSize: 10,
+                                callback: function(value) {
+                                    if (value === 5) return 'S7';
+                                    if (value === 18) return 'S6';
+                                    if (value === 31) return 'S5';
+                                    if (value === 50) return 'S4';
+                                    if (value === 69) return 'S3';
+                                    if (value === 82) return 'S2';
+                                    if (value === 95) return 'S1';
+                                    return '';
+                                }
+                            }
+                        },
+                        x: { 
+                            grid: { display: false },
+                            ticks: { font: { size: 13, weight: 'bold' }, color: '#1e293b' }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: (context) => {
+                                    const factor = ['D', 'I', 'S', 'C'][context.dataIndex];
+                                    const puntajeReal = puntajesNaturales[factor];
+                                    const segmento = segmentos[factor];
+                                    return `Puntaje: ${puntajeReal} | Segmento: ${segmento}`;
+                                }
+                            }
+                        }
+                    },
+                    interaction: {
+                        intersect: false,
+                        mode: 'index'
+                    }
+                }
+            });
+        const codigoReal = `${segmentos.D}${segmentos.I}${segmentos.S}${segmentos.C}`;
+        document.getElementById('codigo-dinamico').innerText = codigoReal;
+        });
+    </script>
+</body>
+</html>

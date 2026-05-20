@@ -1,0 +1,453 @@
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\appsettings.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.staticwebassets.runtime.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.staticwebassets.endpoints.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.exe
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.deps.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.runtimeconfig.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.pdb
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.AssemblyInfo.cs
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.RazorAssemblyInfo.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.RazorAssemblyInfo.cs
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\bundle\ProyectoWebIDP.styles.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\projectbundle\ProyectoWebIDP.bundle.scp.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\eqwti27j5l-{0}-c2tiyv64ts-c2tiyv64ts.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\q00fhh740w-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\dpd2ys7bry-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\ccbejfbq76-{0}-nakmwdwsxp-nakmwdwsxp.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\bplxvd3aw0-{0}-st1cbwfwo5-st1cbwfwo5.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\9y9a3fec9e-{0}-5p029spbuu-5p029spbuu.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\axtrm2htnx-{0}-5vj65cig9w-5vj65cig9w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\iajazded49-{0}-e6q6xbwqzk-e6q6xbwqzk.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\45sm69mrsq-{0}-2q4vfeazbq-2q4vfeazbq.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\vsfw498pnb-{0}-dy6jgresuo-dy6jgresuo.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\imrxg9p1le-{0}-o371a8zbv2-o371a8zbv2.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5d0v46kdjz-{0}-mk8rdyw69w-mk8rdyw69w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\9l2yx50x7e-{0}-jeal3x0ldm-jeal3x0ldm.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\coebxnqze6-{0}-z7kmom2977-z7kmom2977.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\i4vepnj229-{0}-okkk44j0xs-okkk44j0xs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\8g2qtg2jzh-{0}-97yrjpyf9r-97yrjpyf9r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\otf2be0xux-{0}-cwzlr5n8x4-cwzlr5n8x4.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\893k96dwna-{0}-y53cy5s2zj-y53cy5s2zj.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\07jzdv17b7-{0}-wmug9u23qg-wmug9u23qg.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\3b5g8o4i4t-{0}-z9shlbduue-z9shlbduue.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\xyh8sjsi49-{0}-j75batdsum-j75batdsum.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\boytaeycel-{0}-2yn17lgxub-2yn17lgxub.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5fs54cqkz5-{0}-vy0bq9ydhf-vy0bq9ydhf.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\pjyneg8jk0-{0}-ophe14yye5-ophe14yye5.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\3ftz5ee6ly-{0}-ab1c3rmv7g-ab1c3rmv7g.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\6dgpa2it36-{0}-ik6i2hrs65-ik6i2hrs65.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\88h3zdxv85-{0}-56d2bn4wt9-56d2bn4wt9.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\y64rfojsjo-{0}-ozu22stjof-ozu22stjof.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\h7815ma4bb-{0}-73kdqttayv-73kdqttayv.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\2cg5fbqq73-{0}-6gzpyzhau4-6gzpyzhau4.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\2pam6p3jkv-{0}-8inm30yfxf-8inm30yfxf.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\m1m6tt9jqh-{0}-gjcw7pocpk-gjcw7pocpk.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\4at4oasqrp-{0}-4gxs3k148c-4gxs3k148c.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\gf4ykkg3s1-{0}-6l4ir0ityv-6l4ir0ityv.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\mqiebzptpi-{0}-fctod5rc9n-fctod5rc9n.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\v32uh8fj20-{0}-f6zq8v6eb3-f6zq8v6eb3.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\b7igbq0qqz-{0}-kbynt5jhd9-kbynt5jhd9.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\tdh8zb8dx1-{0}-89qbw8ngem-89qbw8ngem.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\r0r3cjdywb-{0}-c2nslu3uf3-c2nslu3uf3.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\htsczknkbn-{0}-n5w6o92d9r-n5w6o92d9r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\mu8fx4psos-{0}-2lgwfvgpvi-2lgwfvgpvi.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\s5uq5ax93w-{0}-jqwzsa9uv6-jqwzsa9uv6.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\wpta1w104m-{0}-wsezl0heh6-wsezl0heh6.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5p44paqsuq-{0}-1piudyfv7h-1piudyfv7h.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\0x2ijqlnw9-{0}-6ukhryfubh-6ukhryfubh.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\srn3bm5d9w-{0}-4908xmbfjr-4908xmbfjr.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\t0trdqwh7o-{0}-u33ctipx7g-u33ctipx7g.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\zgsbblxfmd-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5tnfb3jp9y-{0}-48y08845bh-48y08845bh.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\lqqwro9xa1-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\a3szjlvtsw-{0}-ay5nd8zt9x-ay5nd8zt9x.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\wa8fklr726-{0}-9oaff4kq20-9oaff4kq20.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\45y1oj0ezv-{0}-6d0lkjaslc-6d0lkjaslc.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\j0zkuevejx-{0}-l1zq2mitth-l1zq2mitth.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5top5s5k56-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\u9o0ye8c7j-{0}-7s2n0ol71w-7s2n0ol71w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5vdeyrvvid-{0}-ehgnz7f14e-ehgnz7f14e.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\hei9zg385w-{0}-5pze98is44-5pze98is44.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\yjixu8sp63-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\rangm0ei1z-{0}-6rkbfi3tcs-6rkbfi3tcs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\u2giqyvd7g-{0}-6rkbfi3tcs-6rkbfi3tcs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\refint\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.pdb
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.genruntimeconfig.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ref\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\Proyecto.323D8012.Up2Date
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Functions.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Gotrue.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\MimeMapping.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Postgrest.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Realtime.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Core.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Storage.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\System.Reactive.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Websocket.Client.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\appsettings.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.staticwebassets.runtime.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.staticwebassets.endpoints.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.exe
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.deps.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.runtimeconfig.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.pdb
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Functions.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Gotrue.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\MimeMapping.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Npgsql.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Postgrest.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Realtime.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Core.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Storage.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\System.Reactive.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Websocket.Client.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.csproj.AssemblyReference.cache
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.AssemblyInfoInputs.cache
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.AssemblyInfo.cs
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.csproj.CoreCompileInputs.cache
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.RazorAssemblyInfo.cache
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.RazorAssemblyInfo.cs
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\bundle\ProyectoWebIDP.styles.css
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\projectbundle\ProyectoWebIDP.bundle.scp.css
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\eqwti27j5l-{0}-c2tiyv64ts-c2tiyv64ts.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\q00fhh740w-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\dpd2ys7bry-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\ccbejfbq76-{0}-nakmwdwsxp-nakmwdwsxp.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\bplxvd3aw0-{0}-st1cbwfwo5-st1cbwfwo5.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\9y9a3fec9e-{0}-5p029spbuu-5p029spbuu.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\axtrm2htnx-{0}-5vj65cig9w-5vj65cig9w.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\iajazded49-{0}-e6q6xbwqzk-e6q6xbwqzk.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\45sm69mrsq-{0}-2q4vfeazbq-2q4vfeazbq.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\vsfw498pnb-{0}-dy6jgresuo-dy6jgresuo.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\imrxg9p1le-{0}-o371a8zbv2-o371a8zbv2.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5d0v46kdjz-{0}-mk8rdyw69w-mk8rdyw69w.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\9l2yx50x7e-{0}-jeal3x0ldm-jeal3x0ldm.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\coebxnqze6-{0}-z7kmom2977-z7kmom2977.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\i4vepnj229-{0}-okkk44j0xs-okkk44j0xs.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\8g2qtg2jzh-{0}-97yrjpyf9r-97yrjpyf9r.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\otf2be0xux-{0}-cwzlr5n8x4-cwzlr5n8x4.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\893k96dwna-{0}-y53cy5s2zj-y53cy5s2zj.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\07jzdv17b7-{0}-wmug9u23qg-wmug9u23qg.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\3b5g8o4i4t-{0}-z9shlbduue-z9shlbduue.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\xyh8sjsi49-{0}-j75batdsum-j75batdsum.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\boytaeycel-{0}-2yn17lgxub-2yn17lgxub.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5fs54cqkz5-{0}-vy0bq9ydhf-vy0bq9ydhf.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\pjyneg8jk0-{0}-ophe14yye5-ophe14yye5.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\3ftz5ee6ly-{0}-ab1c3rmv7g-ab1c3rmv7g.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\6dgpa2it36-{0}-ik6i2hrs65-ik6i2hrs65.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\88h3zdxv85-{0}-56d2bn4wt9-56d2bn4wt9.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\y64rfojsjo-{0}-ozu22stjof-ozu22stjof.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\h7815ma4bb-{0}-73kdqttayv-73kdqttayv.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\2cg5fbqq73-{0}-6gzpyzhau4-6gzpyzhau4.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\2pam6p3jkv-{0}-8inm30yfxf-8inm30yfxf.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\m1m6tt9jqh-{0}-gjcw7pocpk-gjcw7pocpk.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\4at4oasqrp-{0}-4gxs3k148c-4gxs3k148c.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\gf4ykkg3s1-{0}-6l4ir0ityv-6l4ir0ityv.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\mqiebzptpi-{0}-fctod5rc9n-fctod5rc9n.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\v32uh8fj20-{0}-f6zq8v6eb3-f6zq8v6eb3.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\b7igbq0qqz-{0}-kbynt5jhd9-kbynt5jhd9.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\tdh8zb8dx1-{0}-89qbw8ngem-89qbw8ngem.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\r0r3cjdywb-{0}-c2nslu3uf3-c2nslu3uf3.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\htsczknkbn-{0}-n5w6o92d9r-n5w6o92d9r.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\mu8fx4psos-{0}-2lgwfvgpvi-2lgwfvgpvi.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\s5uq5ax93w-{0}-jqwzsa9uv6-jqwzsa9uv6.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\wpta1w104m-{0}-wsezl0heh6-wsezl0heh6.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5p44paqsuq-{0}-1piudyfv7h-1piudyfv7h.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\0x2ijqlnw9-{0}-6ukhryfubh-6ukhryfubh.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\srn3bm5d9w-{0}-4908xmbfjr-4908xmbfjr.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\t0trdqwh7o-{0}-u33ctipx7g-u33ctipx7g.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\zgsbblxfmd-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5tnfb3jp9y-{0}-48y08845bh-48y08845bh.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\lqqwro9xa1-{0}-356vix0kms-356vix0kms.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\a3szjlvtsw-{0}-ay5nd8zt9x-ay5nd8zt9x.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\wa8fklr726-{0}-9oaff4kq20-9oaff4kq20.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\45y1oj0ezv-{0}-6d0lkjaslc-6d0lkjaslc.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\j0zkuevejx-{0}-l1zq2mitth-l1zq2mitth.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5top5s5k56-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\u9o0ye8c7j-{0}-7s2n0ol71w-7s2n0ol71w.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5vdeyrvvid-{0}-ehgnz7f14e-ehgnz7f14e.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\hei9zg385w-{0}-5pze98is44-5pze98is44.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\yjixu8sp63-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\rangm0ei1z-{0}-6rkbfi3tcs-6rkbfi3tcs.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\u2giqyvd7g-{0}-6rkbfi3tcs-6rkbfi3tcs.gz
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\Proyecto.323D8012.Up2Date
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\refint\ProyectoWebIDP.dll
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.pdb
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.genruntimeconfig.cache
+C:\Users\ameri\OneDrive\Escritorio\STRATOS 1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ref\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\appsettings.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.staticwebassets.endpoints.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.staticwebassets.runtime.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.exe
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.deps.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.runtimeconfig.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.pdb
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Functions.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Gotrue.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\MimeMapping.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Postgrest.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Realtime.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Core.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Storage.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\System.Reactive.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Websocket.Client.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.AssemblyInfo.cs
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.RazorAssemblyInfo.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.RazorAssemblyInfo.cs
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\bundle\ProyectoWebIDP.styles.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\projectbundle\ProyectoWebIDP.bundle.scp.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\eqwti27j5l-{0}-c2tiyv64ts-c2tiyv64ts.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\q00fhh740w-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\dpd2ys7bry-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\ccbejfbq76-{0}-nakmwdwsxp-nakmwdwsxp.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\bplxvd3aw0-{0}-st1cbwfwo5-st1cbwfwo5.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\9y9a3fec9e-{0}-5p029spbuu-5p029spbuu.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\axtrm2htnx-{0}-5vj65cig9w-5vj65cig9w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\iajazded49-{0}-e6q6xbwqzk-e6q6xbwqzk.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\45sm69mrsq-{0}-2q4vfeazbq-2q4vfeazbq.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\vsfw498pnb-{0}-dy6jgresuo-dy6jgresuo.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\imrxg9p1le-{0}-o371a8zbv2-o371a8zbv2.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5d0v46kdjz-{0}-mk8rdyw69w-mk8rdyw69w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\9l2yx50x7e-{0}-jeal3x0ldm-jeal3x0ldm.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\coebxnqze6-{0}-z7kmom2977-z7kmom2977.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\i4vepnj229-{0}-okkk44j0xs-okkk44j0xs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\8g2qtg2jzh-{0}-97yrjpyf9r-97yrjpyf9r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\otf2be0xux-{0}-cwzlr5n8x4-cwzlr5n8x4.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\893k96dwna-{0}-y53cy5s2zj-y53cy5s2zj.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\07jzdv17b7-{0}-wmug9u23qg-wmug9u23qg.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\3b5g8o4i4t-{0}-z9shlbduue-z9shlbduue.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\xyh8sjsi49-{0}-j75batdsum-j75batdsum.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\boytaeycel-{0}-2yn17lgxub-2yn17lgxub.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5fs54cqkz5-{0}-vy0bq9ydhf-vy0bq9ydhf.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\pjyneg8jk0-{0}-ophe14yye5-ophe14yye5.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\3ftz5ee6ly-{0}-ab1c3rmv7g-ab1c3rmv7g.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\6dgpa2it36-{0}-ik6i2hrs65-ik6i2hrs65.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\88h3zdxv85-{0}-56d2bn4wt9-56d2bn4wt9.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\y64rfojsjo-{0}-ozu22stjof-ozu22stjof.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\h7815ma4bb-{0}-73kdqttayv-73kdqttayv.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\2cg5fbqq73-{0}-6gzpyzhau4-6gzpyzhau4.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\2pam6p3jkv-{0}-8inm30yfxf-8inm30yfxf.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\m1m6tt9jqh-{0}-gjcw7pocpk-gjcw7pocpk.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\4at4oasqrp-{0}-4gxs3k148c-4gxs3k148c.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\gf4ykkg3s1-{0}-6l4ir0ityv-6l4ir0ityv.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\mqiebzptpi-{0}-fctod5rc9n-fctod5rc9n.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\v32uh8fj20-{0}-f6zq8v6eb3-f6zq8v6eb3.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\b7igbq0qqz-{0}-kbynt5jhd9-kbynt5jhd9.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\tdh8zb8dx1-{0}-89qbw8ngem-89qbw8ngem.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\r0r3cjdywb-{0}-c2nslu3uf3-c2nslu3uf3.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\htsczknkbn-{0}-n5w6o92d9r-n5w6o92d9r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\mu8fx4psos-{0}-2lgwfvgpvi-2lgwfvgpvi.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\s5uq5ax93w-{0}-jqwzsa9uv6-jqwzsa9uv6.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\wpta1w104m-{0}-wsezl0heh6-wsezl0heh6.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5p44paqsuq-{0}-1piudyfv7h-1piudyfv7h.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\0x2ijqlnw9-{0}-6ukhryfubh-6ukhryfubh.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\srn3bm5d9w-{0}-4908xmbfjr-4908xmbfjr.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\t0trdqwh7o-{0}-u33ctipx7g-u33ctipx7g.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\zgsbblxfmd-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5tnfb3jp9y-{0}-48y08845bh-48y08845bh.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\lqqwro9xa1-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\a3szjlvtsw-{0}-ay5nd8zt9x-ay5nd8zt9x.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\wa8fklr726-{0}-9oaff4kq20-9oaff4kq20.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\45y1oj0ezv-{0}-6d0lkjaslc-6d0lkjaslc.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\j0zkuevejx-{0}-l1zq2mitth-l1zq2mitth.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5top5s5k56-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\u9o0ye8c7j-{0}-7s2n0ol71w-7s2n0ol71w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5vdeyrvvid-{0}-ehgnz7f14e-ehgnz7f14e.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\hei9zg385w-{0}-5pze98is44-5pze98is44.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\yjixu8sp63-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\rangm0ei1z-{0}-6rkbfi3tcs-6rkbfi3tcs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\u2giqyvd7g-{0}-6rkbfi3tcs-6rkbfi3tcs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\Proyecto.323D8012.Up2Date
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\refint\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.pdb
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.genruntimeconfig.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS1.4\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ref\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\appsettings.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.staticwebassets.runtime.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.staticwebassets.endpoints.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.exe
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.deps.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.runtimeconfig.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\ProyectoWebIDP.pdb
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Functions.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Gotrue.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\MimeMapping.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Postgrest.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Realtime.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Core.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Supabase.Storage.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\System.Reactive.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net10.0\Websocket.Client.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.AssemblyInfo.cs
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.RazorAssemblyInfo.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.RazorAssemblyInfo.cs
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\bundle\ProyectoWebIDP.styles.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\scopedcss\projectbundle\ProyectoWebIDP.bundle.scp.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\eqwti27j5l-{0}-c2tiyv64ts-c2tiyv64ts.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\q00fhh740w-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\dpd2ys7bry-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\ccbejfbq76-{0}-nakmwdwsxp-nakmwdwsxp.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\bplxvd3aw0-{0}-st1cbwfwo5-st1cbwfwo5.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\9y9a3fec9e-{0}-5p029spbuu-5p029spbuu.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\axtrm2htnx-{0}-5vj65cig9w-5vj65cig9w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\iajazded49-{0}-e6q6xbwqzk-e6q6xbwqzk.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\45sm69mrsq-{0}-2q4vfeazbq-2q4vfeazbq.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\vsfw498pnb-{0}-dy6jgresuo-dy6jgresuo.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\imrxg9p1le-{0}-o371a8zbv2-o371a8zbv2.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5d0v46kdjz-{0}-mk8rdyw69w-mk8rdyw69w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\9l2yx50x7e-{0}-jeal3x0ldm-jeal3x0ldm.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\coebxnqze6-{0}-z7kmom2977-z7kmom2977.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\i4vepnj229-{0}-okkk44j0xs-okkk44j0xs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\8g2qtg2jzh-{0}-97yrjpyf9r-97yrjpyf9r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\otf2be0xux-{0}-cwzlr5n8x4-cwzlr5n8x4.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\893k96dwna-{0}-y53cy5s2zj-y53cy5s2zj.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\07jzdv17b7-{0}-wmug9u23qg-wmug9u23qg.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\3b5g8o4i4t-{0}-z9shlbduue-z9shlbduue.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\xyh8sjsi49-{0}-j75batdsum-j75batdsum.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\boytaeycel-{0}-2yn17lgxub-2yn17lgxub.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5fs54cqkz5-{0}-vy0bq9ydhf-vy0bq9ydhf.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\pjyneg8jk0-{0}-ophe14yye5-ophe14yye5.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\3ftz5ee6ly-{0}-ab1c3rmv7g-ab1c3rmv7g.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\6dgpa2it36-{0}-ik6i2hrs65-ik6i2hrs65.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\88h3zdxv85-{0}-56d2bn4wt9-56d2bn4wt9.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\y64rfojsjo-{0}-ozu22stjof-ozu22stjof.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\h7815ma4bb-{0}-73kdqttayv-73kdqttayv.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\2cg5fbqq73-{0}-6gzpyzhau4-6gzpyzhau4.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\2pam6p3jkv-{0}-8inm30yfxf-8inm30yfxf.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\m1m6tt9jqh-{0}-gjcw7pocpk-gjcw7pocpk.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\4at4oasqrp-{0}-4gxs3k148c-4gxs3k148c.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\gf4ykkg3s1-{0}-6l4ir0ityv-6l4ir0ityv.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\mqiebzptpi-{0}-fctod5rc9n-fctod5rc9n.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\v32uh8fj20-{0}-f6zq8v6eb3-f6zq8v6eb3.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\b7igbq0qqz-{0}-kbynt5jhd9-kbynt5jhd9.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\tdh8zb8dx1-{0}-89qbw8ngem-89qbw8ngem.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\r0r3cjdywb-{0}-c2nslu3uf3-c2nslu3uf3.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\htsczknkbn-{0}-n5w6o92d9r-n5w6o92d9r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\mu8fx4psos-{0}-2lgwfvgpvi-2lgwfvgpvi.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\s5uq5ax93w-{0}-jqwzsa9uv6-jqwzsa9uv6.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\wpta1w104m-{0}-wsezl0heh6-wsezl0heh6.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5p44paqsuq-{0}-1piudyfv7h-1piudyfv7h.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\0x2ijqlnw9-{0}-6ukhryfubh-6ukhryfubh.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\srn3bm5d9w-{0}-4908xmbfjr-4908xmbfjr.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\t0trdqwh7o-{0}-u33ctipx7g-u33ctipx7g.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\zgsbblxfmd-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5tnfb3jp9y-{0}-48y08845bh-48y08845bh.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\lqqwro9xa1-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\a3szjlvtsw-{0}-ay5nd8zt9x-ay5nd8zt9x.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\wa8fklr726-{0}-9oaff4kq20-9oaff4kq20.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\45y1oj0ezv-{0}-6d0lkjaslc-6d0lkjaslc.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\j0zkuevejx-{0}-l1zq2mitth-l1zq2mitth.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5top5s5k56-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\u9o0ye8c7j-{0}-7s2n0ol71w-7s2n0ol71w.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\5vdeyrvvid-{0}-ehgnz7f14e-ehgnz7f14e.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\hei9zg385w-{0}-5pze98is44-5pze98is44.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\yjixu8sp63-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\rangm0ei1z-{0}-6rkbfi3tcs-6rkbfi3tcs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\compressed\u2giqyvd7g-{0}-6rkbfi3tcs-6rkbfi3tcs.gz
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\Proyecto.323D8012.Up2Date
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\refint\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.pdb
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ProyectoWebIDP.genruntimeconfig.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS 1.5\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net10.0\ref\ProyectoWebIDP.dll

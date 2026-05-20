@@ -1,0 +1,68 @@
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\appsettings.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.staticwebassets.runtime.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.staticwebassets.endpoints.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.exe
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.deps.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.runtimeconfig.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.dll
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.pdb
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.AssemblyInfoInputs.cache
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.AssemblyInfo.cs
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.csproj.CoreCompileInputs.cache
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.RazorAssemblyInfo.cache
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.RazorAssemblyInfo.cs
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.sourcelink.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\scopedcss\bundle\ProyectoWebIDP.styles.css
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoWebIDP.bundle.scp.css
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.dll
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\refint\ProyectoWebIDP.dll
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.pdb
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.genruntimeconfig.cache
+C:\Users\ameri\source\repos\ProyectoWebIDP\ProyectoWebIDP\obj\Debug\net8.0\ref\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\appsettings.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.staticwebassets.endpoints.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.staticwebassets.runtime.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.exe
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.deps.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.runtimeconfig.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\bin\Debug\net8.0\ProyectoWebIDP.pdb
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.AssemblyInfo.cs
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.RazorAssemblyInfo.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.RazorAssemblyInfo.cs
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\scopedcss\bundle\ProyectoWebIDP.styles.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\scopedcss\projectbundle\ProyectoWebIDP.bundle.scp.css
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\refint\ProyectoWebIDP.dll
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.pdb
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ProyectoWebIDP.genruntimeconfig.cache
+C:\Users\Mi PC\Desktop\PROYECTO STRATOS\PROYECTO STRATOS\ProyectoWebIDP\obj\Debug\net8.0\ref\ProyectoWebIDP.dll
