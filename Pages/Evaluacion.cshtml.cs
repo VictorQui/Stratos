@@ -112,50 +112,47 @@ namespace ProyectoWebIDP.Pages
 
         private int ObtenerSegmento(int score, string factor)
         {
-            // D (Z) - Rango corregido
             if (factor == "D")
             {
-                if (score >= 11) return 7;      // Muy alto
-                if (score >= 6) return 6;
-                if (score >= 1) return 5;
-                if (score >= -4) return 4;
-                if (score >= -10) return 3;
-                if (score >= -28) return 2;
-                return 1;                        // Muy bajo
+                if (score <= -8) return 1;
+                if (score <= -4) return 2;
+                if (score <= -1) return 3;
+                if (score <= 1) return 4;
+                if (score <= 4) return 5;
+                if (score <= 8) return 6;
+                return 7;
             }
-            // I (Cuadrado)
-            if (factor == "I")
+            else if (factor == "I")
             {
-                if (score >= 8) return 7;
-                if (score >= 5) return 6;
-                if (score >= 2) return 5;
-                if (score >= -2) return 4;
-                if (score >= -6) return 3;
-                if (score >= -28) return 2;
-                return 1;
+                if (score <= -8) return 1;
+                if (score <= -4) return 2;
+                if (score <= -2) return 3;
+                if (score <= 0) return 4;
+                if (score <= 3) return 5;
+                if (score <= 6) return 6;
+                return 7;
             }
-            // S (Triángulo)
-            if (factor == "S")
+            else if (factor == "S")
             {
-                if (score >= 12) return 7;
-                if (score >= 9) return 6;
-                if (score >= 6) return 5;
-                if (score >= 1) return 4;
-                if (score >= -4) return 3;
-                if (score >= -28) return 2;
-                return 1;
+                if (score <= -11) return 1;
+                if (score <= -7) return 2;
+                if (score <= -4) return 3;
+                if (score <= -1) return 4;
+                if (score <= 3) return 5;
+                if (score <= 7) return 6;
+                return 7;
             }
-            // C (Estrella)
-            if (factor == "C")
+            else if (factor == "C")
             {
-                if (score >= 11) return 7;
-                if (score >= 7) return 6;
-                if (score >= 4) return 5;
-                if (score >= 0) return 4;
-                if (score >= -3) return 3;
-                if (score >= -28) return 2;
-                return 1;
+                if (score <= -6) return 1;
+                if (score <= -3) return 2;
+                if (score <= -1) return 3;
+                if (score <= 2) return 4;
+                if (score <= 4) return 5;
+                if (score <= 8) return 6;
+                return 7;
             }
+            
             return 4;
         }
     }
